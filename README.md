@@ -1,2 +1,2 @@
 # Invoice-
-simple invoice formt with tags and using mvvm flow
+simple invoice format with tags and using mvvm flow
